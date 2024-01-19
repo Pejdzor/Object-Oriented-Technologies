@@ -81,3 +81,10 @@ Our application use 2 endpoints for communication:
 - ChoiceBox now uses Enum to display possible options of size
 - God Controller no more 
 
+## 15 - 19.01.2024
+- Pagination mechanism (Cashing is useless now)
+- Backend stores file paths now in Directory table (this allows to recreate diretory structure)
+- Filtering by directory Structure
+- Updated endpoints to match new requirements
+- Application accepts .zip files and recreate its structure
+- Better frontend styling
